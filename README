@@ -5,7 +5,7 @@ OpenBox is used as a window manager. This DE is designed to be the go-to DE for 
 
 Dependencies:
 
-python3-pynput xdotool gcc make pkg-config libgtk-3-dev libvte-2.91-dev libx11-dev obconf menu-xdg libglib2.0-dev libgdk-pixbuf2.0-dev
+python3-pynput xdotool gcc make pkg-config libgtk-3-dev libvte-2.91-dev libx11-dev obconf menu-xdg libglib2.0-dev libgdk-pixbuf2.0-dev openbox
 
 Install:
 
