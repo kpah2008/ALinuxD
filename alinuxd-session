@@ -1,6 +1,8 @@
 #!/bin/sh
 openbox --replace &
 
+abind &
+
 alinuxd-desktop &
 
 xautolock -time 100000000000 -locker "xscreensaver-command -lock" &
