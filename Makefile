@@ -7,4 +7,4 @@ install:
 	chmod 777 /usr/bin/alinuxd-session
 	cp obconf /usr/bin/
 	cp openbox /usr/bin/
-	cp openbox-session /usr/bin/
+	rm /usr/bin/openbox-session
