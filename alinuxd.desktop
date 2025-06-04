@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=ALinuxD
+Comment=A Linux Desktop
+Exec=alinuxd-session
+Type=Application
