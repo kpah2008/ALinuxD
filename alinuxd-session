@@ -3,7 +3,7 @@ openbox --replace &
 
 abind &
 
-alinuxd-desktop &
+atermd &
 
 xautolock -time 100000000000 -locker "xscreensaver-command -lock" &
 
