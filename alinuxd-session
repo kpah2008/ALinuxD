@@ -1,0 +1,8 @@
+#!/bin/sh
+openbox --replace &
+
+alinuxd-desktop &
+
+xautolock -time 100000000000 -locker "xscreensaver-command -lock" &
+
+wait $(pidof openbox)
