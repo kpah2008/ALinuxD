@@ -8,3 +8,5 @@ install:
 	cp obconf /usr/bin/
 	cp openbox /usr/bin/
 	cp openbox-session /usr/bin/
+	mkdir ~/.config/openbox/
+	cp .config/openbox/rc.xml ~/.config/openbox/
