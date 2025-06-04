@@ -1,3 +1,5 @@
 A Linux Desktop - Retro Desktop Environment for Linux.
 OpenBox is used as a window manager. This DE is designed to be the go-to DE for many people for years to come. It can be easily improved and improved. An improved terminal is used as a desktop. Almost all components are written in C using GTK.
 
+Dependencies:
+python3-pynput xdotool gcc make pkg-config libgtk-3-dev libvte-2.91-dev libx11-dev obconf menu-xdg libglib2.0-dev libgdk-pixbuf2.0-dev
